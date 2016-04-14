@@ -1,2 +1,15 @@
-# bloguniversidad
-Es un proyecto dedicado al crecimiento de comunidad universitaria a través de un blog de los eventos
+Blog universidad
+
+[Descripción del proyecto]
+
+[Instalación]
+-Requisitos
+-Version
+-Encargados del proyecto
+
+[Uso]
+
+[Documentacion]
+
+
+
